@@ -3,7 +3,7 @@ module github.com/adverax/types
 go 1.21.6
 
 require (
-	github.com/adverax/core v0.0.0-20241230101610-0ec0fc36713e
+	github.com/adverax/core v1.0.0
 	github.com/json-iterator/go v1.1.12
 	github.com/stretchr/testify v1.10.0
 )
